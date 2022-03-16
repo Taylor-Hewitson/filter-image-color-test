@@ -1,0 +1,19 @@
+body{
+ background-color: darkblue;
+}
+
+.flex{
+ display: flex;
+ width: 100%;
+ height: 400px;
+ flex-direction: row;
+}
+.project{
+ width: 400px;
+ height: 400px;
+}
+
+.internet{
+ width: 400px;
+ height: 400px;
+}
